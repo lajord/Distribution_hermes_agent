@@ -1,5 +1,26 @@
 # Agent Hermes — Distribution de Stepers
 
+
+
+
+
+Moi poiint de vue use cases je vois les choses ainsi
+Quelque choses de simple dans un premier temps qui me ferait un rapport PDF avec toute la
+data, un recap des follow, impression et toute les stats
+Les posts qui ont le plus performer
+Reconnaitre des patterns
+Voir la progression de la waitlist comprendre ce qui fait que elle ce remplis ou pas
+Les pains point de mon ICP
+Les DM 
+Sourcing etc etc
+
+
+
+
+
+
+
+
 ## 1. Vision
 
 Construire un agent Hermes qui analyse, chaque fin de week-end, la distribution de Stepers et prépare la semaine suivante.

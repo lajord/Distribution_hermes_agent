@@ -1,5 +1,10 @@
 ﻿# Plan Hermes — Distribution Stepers
 
+
+Hermes → utilise les MCP → raisonne avec Claude → suit ton skill → génère le rapport → l’envoie.
+
+
+
 ## 1. Applications tierces prévues
 
 Hermes utilisera ces applications via les connexions MCP ou tools retenus pour le backend :
