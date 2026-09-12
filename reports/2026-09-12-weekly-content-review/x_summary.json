@@ -1,0 +1,45 @@
+{
+  "current": {
+    "impression_count": 4896,
+    "like_count": 180,
+    "reply_count": 153,
+    "retweet_count": 1,
+    "quote_count": 1,
+    "bookmark_count": 2,
+    "engagements_private": 676,
+    "profile_clicks": 108,
+    "posts": 22,
+    "median_impressions": 108.5
+  },
+  "previous": {
+    "impression_count": 3364,
+    "like_count": 122,
+    "reply_count": 70,
+    "retweet_count": 2,
+    "quote_count": 2,
+    "bookmark_count": 2,
+    "engagements_private": 473,
+    "profile_clicks": 50,
+    "posts": 16,
+    "median_impressions": 140.5
+  },
+  "deltas_pct": {
+    "posts": 37.5,
+    "impression_count": 45.5,
+    "engagements_private": 42.9,
+    "profile_clicks": 116.0,
+    "median_impressions": -22.8
+  },
+  "current_without_connect_outlier": {
+    "impression_count": 2516,
+    "like_count": 107,
+    "reply_count": 39,
+    "retweet_count": 0,
+    "quote_count": 1,
+    "bookmark_count": 2,
+    "engagements_private": 283,
+    "profile_clicks": 29,
+    "posts": 21,
+    "median_impressions": 105
+  }
+}

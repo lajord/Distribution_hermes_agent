@@ -49,8 +49,9 @@ export async function xRequest<T>(path: string, params: Params = {}): Promise<XR
 // Keep page mechanics here; tools supply endpoint parameters and optional filters.
 export async function collectPages<T extends { id: string }>(
   path: string, params: Params, limit: number,
-  options: { minPage?: number; maxPage?: number; accept?: (item: T) => boolean } = {},
+  options: { minPage?: number; maxPage?: number; accept?: (item: T) => boolean; tokenParam?: string } = {},
 ) {
+  const tokenParam = options.tokenParam ?? 'pagination_token';
   const data: T[] = [];
   const errors: NonNullable<XResponse<T>['errors']> = [];
   const users = new Map<string, XUser>();
@@ -62,7 +63,7 @@ export async function collectPages<T extends { id: string }>(
   do {
     const result = await xRequest<T[]>(path, {
       ...params, max_results: Math.max(options.minPage ?? 1, Math.min(options.maxPage ?? 100, limit - data.length)),
-      pagination_token: next,
+      [tokenParam]: next,
     });
     pages++;
     errors.push(...(result.errors ?? []));

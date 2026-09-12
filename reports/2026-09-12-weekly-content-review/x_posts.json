@@ -1,0 +1,1053 @@
+{
+  "scope": {
+    "current": "2026-09-06 through 2026-09-12 14:18 Europe/Paris",
+    "previous": "2026-08-30 through 2026-09-05 Europe/Paris"
+  },
+  "current": [
+    {
+      "id": "2098713233867546861",
+      "text": "Add some chaos to your routine.\n\nNo one ever improves by staying in their room in front of a computer for years.\n\nSomething to think about",
+      "created_at": "2026-09-12T10:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098713233867546861",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 2,
+        "impression_count": 14,
+        "user_profile_clicks": 0
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098666068587725098",
+      "text": "A lot of SaaS founders are constantly looking for more traffic.\n\nBut if you already have hundreds of people coming to your product every month, acquisition might not be your biggest problem anymore.\n\nLook at what happens after:\n\nHow many create an account?\nHow many actually reach the value of the product?\nHow many come back a few days later?\nHow many eventually pay?\n\nAdding more traffic to a leaky funnel doesn’t fix the problem.\n\nBefore trying to get 1,000 more visitors, try to understand what’s actually happening inside your product.",
+      "created_at": "2026-09-12T06:52:36.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098666068587725098",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 13,
+        "impression_count": 72,
+        "user_profile_clicks": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Vkh1Fc4r8i",
+            "end": 304,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2098666068587725098/photo/1",
+            "media_key": "3_2098666059368726532",
+            "start": 281,
+            "url": "https://t.co/Vkh1Fc4r8i"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098411243232952798",
+      "text": "If your SaaS is making money today but you're still using Resend for your emails, there's a problem somewhere.\n\nThe real problem is that you're treating your emails as just events in your code.\n\nAPI calls scattered everywhere, cron jobs handling the logic, conditions all over the place, etc.\n\nResend itself isn't really the problem here.\n\nThe real problem is the lack of coherence.\n\nLet me explain:\n\nWhen your SaaS starts generating revenue, you should be able to see your emails, understand why they're being sent, edit your sequences, measure their performance, and improve them without touching 15 different places in your code.\n\nYou need to optimize, understand what's happening, and actually build a high-performing system.\n\nEmails aren't only there to make you more money.\n\nThey're also there to help you understand your ICP better, provide value, build relationships, and create a better experience.\n\nAnd I know some people won't like this, but using Resend forever is kind of lazy haha.\n\nIf your SaaS is making money, you need to start taking this part seriously.",
+      "created_at": "2026-09-11T14:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098411243232952798",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 187,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 23,
+        "impression_count": 187,
+        "user_profile_clicks": 5
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/FWUqpzuR6z",
+            "end": 304,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2098411243232952798/photo/1",
+            "media_key": "3_2098289506600341515",
+            "start": 281,
+            "url": "https://t.co/FWUqpzuR6z"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098396152714453094",
+      "text": "Doing volume and learning from that volume, everyone talks about this kind of thing, but concretely, how do you actually do it?\n\nDo you work like crazy on one thing for 90 days, then review everything and adapt?\n\nOr do you work with shorter timeframes? https://t.co/jQEP3pdXZF",
+      "created_at": "2026-09-11T13:00:03.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098396152714453094",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 184,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 15,
+        "impression_count": 184,
+        "user_profile_clicks": 3
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/jQEP3pdXZF",
+            "end": 276,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2098396152714453094/photo/1",
+            "media_key": "3_2098290885494460417",
+            "start": 253,
+            "url": "https://t.co/jQEP3pdXZF"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098350840679645345",
+      "text": "Hey all !\n@X algorithm I'm looking to #connect with people interested in:     \n\n- SaaS    \n- AI Engineering    \n- Building stuff on the internet         \n\nOr if you are a:      \n\n- CS Student    \n- Software engineer    \n- SaaS founder        \n\nLet’s connect!",
+      "created_at": "2026-09-11T10:00:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098350840679645345",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2380,
+        "like_count": 73,
+        "quote_count": 0,
+        "reply_count": 114,
+        "retweet_count": 1
+      },
+      "private_metrics": {
+        "engagements": 393,
+        "impression_count": 2380,
+        "user_profile_clicks": 79
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "end": 46,
+            "start": 38,
+            "tag": "connect"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 12,
+            "id": "783214",
+            "start": 10,
+            "username": "X"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098117734152491399",
+      "text": "What a crazy feeling it is to see people using your product when you're not even paying attention to it anymore… \n\nMy first project is still running. I don't spend a single minute on its development anymore, and yet, to this day, it still gets sign-ups, payments, and people using it every day.\n\nI think one of the most underrated feelings is knowing you're genuinely helping people, and that they give it back to you",
+      "created_at": "2026-09-10T18:33:43.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098117734152491399",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 105,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 18,
+        "impression_count": 105,
+        "user_profile_clicks": 2
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098063952324579699",
+      "text": "The end-of-year lock-in has always been my favorite, and I'm going to share my protocol for making a breakthrough, for making a real difference.\n\n2027 is almost here, and that \"I've still got a bit of time before the year ends\" energy you need to use it to your advantage and go all out.\n\n→ Pick ONE goal. What's the goal that, if you broke through and hit it, would change the most in your life?\n\n→ The goal should scare you: it has to be reachable, but almost absurd in how ambitious it is. The brain is an answer machine ask it the right questions and it'll give you the right answers.\n\n→ Identify the 3 key actions that, repeated every day / every week, will get you to that goal. And identify 1 to 3 numbers that tell you whether you're moving in the right direction.\n\n→ Refuse, and cut from your environment and your habits, everything that could drag you down. For the next 90 days, split it into 3 categories: social, physical, digital. In each one, list what pulls you down.\n\nIt starts now. \n90 days from today lands just before the holidays. \n\n90 days, one goal.",
+      "created_at": "2026-09-10T15:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098063952324579699",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 56,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 4,
+        "impression_count": 56,
+        "user_profile_clicks": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ntsAMOWEhC",
+            "end": 302,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2098063952324579699/photo/1",
+            "media_key": "3_2097923967692787712",
+            "start": 279,
+            "url": "https://t.co/ntsAMOWEhC"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098056400240800191",
+      "text": "Astra even on light, a few prompts in and I've already blown through my daily limit… \nWasn't this model supposed to be less token-hungry?",
+      "created_at": "2026-09-10T14:30:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098056400240800191",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 6,
+        "impression_count": 55,
+        "user_profile_clicks": 0
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2098048851349217408",
+      "text": "I can't wait to get my hands on Stepers, this project is going to be insane and I'm not mincing my words.\nIt's the kind of tool you really need when you're running a SaaS.\nbtw what do you guys think of the LP? https://t.co/EyHdTOl2e6",
+      "created_at": "2026-09-10T14:00:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2098048851349217408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 398,
+        "like_count": 6,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 12,
+        "impression_count": 396,
+        "user_profile_clicks": 1
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/EyHdTOl2e6",
+            "end": 233,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2098048851349217408/video/1",
+            "media_key": "13_2097917762030952448",
+            "start": 210,
+            "url": "https://t.co/EyHdTOl2e6"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2097686464242897299",
+      "text": "Right now, I’m working on a Hermes agent connected to Stepers’ distribution\n\nThe goal is simple:\n\nHelp me understand what actually drives traffic to Stepers and what I should do more of.\n\nEvery day, the agent analyzes my posts, compares them with traffic on the landing page, looks for patterns I might miss, and stores the important signals in a database.\n\nSo instead of looking at impressions, likes or traffic separately, I can start answering questions like:\n\nWhich topics actually bring people to the product?\n\nWhich posts generate interest but no traffic?\n\nWhich formats should I double down on?\n\nWhat changed compared to the previous week?\n\nThen every weekend, it creates a complete PDF report and sends it to me by email with what worked, the patterns it found, and what I should focus on the following week.\n\nBasically, I’m trying to turn my distribution data into actual decisions instead of just more dashboards.\n\nIf you have a SaaS, I think this is the kind of tool that could really help you. \n\nIf you’re interested in this kind of thing, comment “TOOL” and follow me, and I’ll share a playbook on how to build this agent.",
+      "created_at": "2026-09-09T14:00:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2097686464242897299",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 90,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 6,
+        "impression_count": 90,
+        "user_profile_clicks": 1
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2097626066609451205",
+      "text": "The more you give, the more you’ll get in return\n\nIt’s Newton’s third law\n\nEvery force exerted on or against something creates an equal force in the opposite direction.\n\nAll that to say, the more you give, the more you’ll get in return, and that’s something you should always keep in mind.\n\nWhat are you giving? Your time? Your energy? Your nights? Advice? Value? Give without expecting anything in return ahaha, it’s paradoxical but I think that’s the right approach.\n\nWhat are you willing to give to reach your goals?",
+      "created_at": "2026-09-09T10:00:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2097626066609451205",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 44,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 3,
+        "impression_count": 44,
+        "user_profile_clicks": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/uOZqjpa3Tc",
+            "end": 304,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2097626066609451205/photo/1",
+            "media_key": "3_2097559531442012160",
+            "start": 281,
+            "url": "https://t.co/uOZqjpa3Tc"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2097559777123426718",
+      "text": "I spent my weekend and the last few days setting up Amazon SES, \n\nBUT IT’S FINALLY DONE YOUHOUU 🎉\n\nHonestly, I think the Amazon console is really clean. There’s a lot, a lot of stuff, but despite that, I find it pretty easy to navigate and understand where everything is.\n\nNow the next steps for the product are\n\n-> Transactional emails\n-> AI context\n-> MCP\n-> Email editor\n\nThere’s still work to do, but the product is coming soon!",
+      "created_at": "2026-09-09T05:36:36.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2097559777123426718",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 127,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 13,
+        "impression_count": 127,
+        "user_profile_clicks": 1
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2097406615032885384",
+      "text": "That and obsession https://t.co/IS9HddgXGF",
+      "created_at": "2026-09-08T19:27:59.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2097406615032885384",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 84,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 14,
+        "impression_count": 84,
+        "user_profile_clicks": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/IS9HddgXGF",
+            "end": 42,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2097406615032885384/photo/1",
+            "media_key": "3_2097406601892405248",
+            "start": 19,
+            "url": "https://t.co/IS9HddgXGF"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2097278780759036279",
+      "text": "We’re getting into the final part of the year and it feels weird\n\nIt went by so fast, how is that even possible ahaha\n\nBut it’s crazy when you look back, the version of me from 8 months ago has almost nothing to do with who I am today and I’m pretty sure it’s the same for you too.\n\nIs your current situation what you imagined at the beginning of the year? If not, I don’t think it’s a big deal, life is full of challenges and unexpected things, what matters are the small choices you make every day and whether you keep moving in the direction that truly matters to you.\n\nTime to crush it for the rest of the year letsgoooooo",
+      "created_at": "2026-09-08T11:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2097278780759036279",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 185,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 29,
+        "impression_count": 188,
+        "user_profile_clicks": 5
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/wiR0xWa5T6",
+            "end": 300,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2097278780759036279/photo/1",
+            "media_key": "3_2097198351687233537",
+            "start": 277,
+            "url": "https://t.co/wiR0xWa5T6"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2097218383318261761",
+      "text": "Most SaaS products that make money have understood something many SaaS founders still underestimate.\n\nThere’s a moment when a user truly understands the value of the product in front of them.\n\nThat’s what people usually call the “aha moment,” even though I’m not a huge fan of that expression ahaha.\n\nIn practice, it’s an action they take or a result they get that makes them think:\n\n“Ok, now I understand why this product can actually help me.”\n\nSo your goal is simple:\n\nHow do you make your user experience that moment within the first few minutes?",
+      "created_at": "2026-09-08T07:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2097218383318261761",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 112,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 13,
+        "impression_count": 112,
+        "user_profile_clicks": 3
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/VqkxRPyeRA",
+            "end": 300,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2097218383318261761/photo/1",
+            "media_key": "3_2097199874106376192",
+            "start": 277,
+            "url": "https://t.co/VqkxRPyeRA"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2096991889757249860",
+      "text": "This week is going to be a big one for Stepers ahaha.\n\nWe’re entering an important phase, and the lesson I keep learning from moments like this is always the same:\n\n“I wish I had done more, worked harder, and pushed closer to my limits.”\n\nIt’s something you can feel deep inside you, that fire in your belly, that ambition telling you that you can give more and push harder. When you feel it, accept it and use it.\n\nThe product is going to make a lot of progress this week, and I’ll also be sharing a product demo.\n\nI’m also planning to publish a full-value article about email sequences this week.\n\nAnd I also want to talk more about another passion of mine: artificial intelligence. \n\nI’ve just finished my engineering degree, and I’ll officially graduate very soon ahaha.",
+      "created_at": "2026-09-07T16:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096991889757249860",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 105,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 9,
+        "impression_count": 105,
+        "user_profile_clicks": 1
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2096961694212014517",
+      "text": "Momentum is built. It comes from the effort you put in every single day.\n\nOne step at a time, the snowball gets bigger and bigger.\n\nWhen you feel yourself gaining momentum, moving faster, and things starting to accelerate for you...\n\nDon’t stop.",
+      "created_at": "2026-09-07T14:00:02.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096961694212014517",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 6,
+        "impression_count": 81,
+        "user_profile_clicks": 1
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2096931500851863986",
+      "text": "To do more, you need to do less.\nIt might sound weird ahaha, but it’s true.\n\nWhen you’re a solo founder, you’re everywhere at once: working on the product, distribution, talking to people, coding, etc.\n\nWhat I’ve noticed is that this approach can become a problem.\n\nYou switch tasks eight times a day, try to do everything at once, and your attention gets diluted.\n\nIn the end, you make progress in a lot of different directions, but at best, it’s average.\n\nThat’s also why people often say to focus on one channel and one feature at a time.\n\nAnd on a daily basis, focus on THE task that will generate 80% of the results.\n\nToday, what is the one task that, if completed, would give you 80% of the results and move you forward massively?\n\nThat’s the kind of question I try to ask myself every day to make sure I’m working on the real priority and not spreading myself too thin.",
+      "created_at": "2026-09-07T12:00:03.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096931500851863986",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 113,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 29,
+        "impression_count": 113,
+        "user_profile_clicks": 3
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/iUD0GwxPdO",
+            "end": 300,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2096931500851863986/photo/1",
+            "media_key": "3_2096875280656736258",
+            "start": 277,
+            "url": "https://t.co/iUD0GwxPdO"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2096599305826242670",
+      "text": "Being mentally obese means constantly consuming more and more information every day just to avoid doing what actually matters: Taking action.",
+      "created_at": "2026-09-06T14:00:02.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096599305826242670",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 1,
+        "impression_count": 55,
+        "user_profile_clicks": 0
+      }
+    },
+    {
+      "id": "2096569103234289906",
+      "text": "Stepers is progressing really well and it will be available by the end of the month. I’ll share a product demo this week.",
+      "created_at": "2026-09-06T12:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096569103234289906",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 140,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 23,
+        "impression_count": 140,
+        "user_profile_clicks": 1
+      }
+    },
+    {
+      "id": "2096501821581803815",
+      "text": "Filling a leaking bucket is a bad idea. Lifecycle emails are not a nice-to-have in SaaS. They’re a real part of your retention system.",
+      "created_at": "2026-09-06T07:32:40.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096501821581803815",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 187,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 25,
+        "impression_count": 187,
+        "user_profile_clicks": 1
+      }
+    },
+    {
+      "id": "2096872734810669231",
+      "text": "If your SaaS is starting to make MRR, you should read this. When your user closes your SaaS, they forget about it. That’s exactly why email sequences are so important for a SaaS. Email sequences are still massively underestimated by SaaS founders who are already making MRR.",
+      "created_at": "2026-09-07T08:06:32.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096872734810669231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 123,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 19,
+        "impression_count": 123,
+        "user_profile_clicks": 1
+      }
+    }
+  ],
+  "previous": [
+    {
+      "id": "2096221822064738307",
+      "text": "Today, more than ever, what matters most is strategy, creativity, and ideas.\n\nAI can handle almost everything now. There’s no real edge anymore in knowing how to code or write great scripts.\n\nThe bottleneck is no longer execution.\n\nIt’s strategy and creativity.",
+      "created_at": "2026-09-05T13:00:02.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096221822064738307",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 120,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 16,
+        "impression_count": 120,
+        "user_profile_clicks": 1
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2096176514245214230",
+      "text": "If I told you that you were 30 failures away from achieving your goals, how fast would you move?\n\nSomeone once told me this sentence and it completely changed the way I think, since then I’ve committed to ONE thing, stop being slow, stop this disguised procrastination.\n\nThat’s why this month of September is going to be essential for Stepers, because my goal is to make the project real with an actual usable version and some MRR.\n\nAnd I hope you have the same mindset for your own project.\n\nBecause in reality, when you choose a path, a direction in life, either you go all in or you do nothing at all and I think this mindset of setting big short-term goals and trying to move as fast as possible is something extremely beneficial.\n\nYou can see it as sprint periods, after that you can rest if you want to.\n\nAnd you, what mindset do you try to keep in your head every day to reach your goals?",
+      "created_at": "2026-09-05T10:00:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096176514245214230",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 131,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 7,
+        "impression_count": 131,
+        "user_profile_clicks": 1
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/BJNBsEphtN",
+            "end": 301,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2096176514245214230/photo/1",
+            "media_key": "3_2096134223321309184",
+            "start": 278,
+            "url": "https://t.co/BJNBsEphtN"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2096131718377840737",
+      "text": "I generated my first SaaS revenue thanks to a simple email and yet, for months, I had completely underestimated this channel and you probably do too.\n\nOn my previous project, I sent an email to my users with a simple offer:\n\nMy product, for life, for €50, an irresistible offer in a well-written and well-branded email and a few hours later, I received a Stripe notification.\n\nSomeone had bought it, someone who had never pulled out their credit card before.\n\nI could barely believe it ahaha, it was the first entrepreneurial revenue I had ever made in my life and I didn’t really know how to react so I started jumping around everywhere.\n\nBut from that moment on, I decided I was going to put a much more serious email strategy in place.\n\nNot just to sell.\n\nBut to send the right message at the right moment:\n\n→ Bring an inactive user back\n→ Help them reach their first result\n→ Reduce churn\n→ Increase LTV\n→ Convert a trial into a paying customer\n\nWhether you have 10, 100 or 1,000 users, emails remain an important part of your SaaS.\n\nThe objective changes, that’s all, when you have 10 users you don’t send the same type of emails as when you have 2,000.\n\nBut their importance stays the same.\n\nThat’s exactly what I’m working on with Stepers:\n\nMaking this whole strategy much simpler.\n\nKnowing what to send, to whom, and at what moment.\n\nBecause in the end, that’s what really matters.",
+      "created_at": "2026-09-05T07:02:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2096131718377840737",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 324,
+        "like_count": 12,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 73,
+        "impression_count": 324,
+        "user_profile_clicks": 4
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/nbrPIy4FG4",
+            "end": 301,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2096131718377840737/photo/1",
+            "media_key": "3_2096131688917278720",
+            "start": 278,
+            "url": "https://t.co/nbrPIy4FG4"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2095814130837942509",
+      "text": "\"SaaS isn't optimized, the cashflow is slow, it's really hard, bla bla bla.\"\n\nYeah, that's true. \n\nSaaS is hard, the cashflow is slow, all of it. \nBut I think there's something worth pointing out here.\n\nThere's what's optimized on paper.\nAnd there's what's optimized for you.\n\nWhat's optimized for you is the thing you can do more of, and for longer, than most people can.\n\nSo if you really love that idea of starting from zero, building something, putting it in the hands of the people who need it, and growing it little by little if all of that actually excites you then SaaS is optimized for you.\n\nSo what's the most optimized thing for you?",
+      "created_at": "2026-09-04T10:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2095814130837942509",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 74,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 5,
+        "impression_count": 74,
+        "user_profile_clicks": 0
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2095787847907217738",
+      "text": "Four days sick now and it's starting to get rough.\n\nGetting up several times in the middle of the night to throw up doesn't exactly help ahahaha 🥲\n\nAnd when on top of that you're supposed to be building your next SaaS Stepers, an alternative to Loops everything gets harder.\n\nThese are the moments where you realize that if you're not close to 100%, pushing a project this ambitious forward gets really difficult. You need to be at your best, otherwise you just don't move.\n\nStepers is built on that idea. What matters is speed, and focusing on what actually counts: which email to send, to which person, and at what moment, so you get the most out of every send.\n\nAnyway, some things you control and some you don't.\n\nGoing to see a doctor soon!\n\nIf Stepers sounds interesting, link's in my bio.",
+      "created_at": "2026-09-04T08:15:35.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2095787847907217738",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 267,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 34,
+        "impression_count": 267,
+        "user_profile_clicks": 1
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/psrZRy4ZGu",
+            "end": 298,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2095787847907217738/photo/1",
+            "media_key": "3_2095787836733632512",
+            "start": 275,
+            "url": "https://t.co/psrZRy4ZGu"
+          },
+          {
+            "display_url": "pic.x.com/psrZRy4ZGu",
+            "end": 298,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2095787847907217738/photo/1",
+            "media_key": "3_2095787836737810432",
+            "start": 275,
+            "url": "https://t.co/psrZRy4ZGu"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2095512138790085112",
+      "text": "Today, the biggest mistakes I've made were waiting too long, taking too much time, putting off actions I was supposed to take way earlier. \n\nI won't make the same mistakes again: do things as fast as possible, and set short-term goals that are ambitious. \n\nYou're closer to succeeding than you think.",
+      "created_at": "2026-09-03T14:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2095512138790085112",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 54,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 2,
+        "impression_count": 54,
+        "user_profile_clicks": 0
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2095422596326031496",
+      "text": "I'm an AI engineer. \nI built a Claude skill I'd been keeping to myself until now.\n\nYou give it your SaaS and one goal: churn, activation, retention, trial → paid.\n\nHere's what it gives you back:\n\n→ a full audit of what's tracked in your product, and more importantly what isn't\n→ the blind spots in your user journey, the ones you don't see\n→ the exact email sequences to implement, in priority order\n→ the technical plan to wire them up, event by event\n\nIn short: you go from \"I know my emails aren't doing anything\" to an implementation plan that's ready to code.\n\nBecause the problem was never laziness. Your SaaS runs 3 sequences when it should be running 12 and nobody knows which ones, in what order, or at what point in the journey.\n\nI built it for my own SaaS. \n\nI've kept improving it since, trying to get the skill as close to perfect as I can.\n\nAnd I'm giving it to you for free.\n\n1/ Comment \"SKILL\"\n2/ Like\n3/ Follow (otherwise the DM can't go through)\n\nI'll send the resource your way.",
+      "created_at": "2026-09-03T08:04:12.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2095422596326031496",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 97,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 18,
+        "impression_count": 97,
+        "user_profile_clicks": 1
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/QkoLdu4L05",
+            "end": 301,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2095422596326031496/photo/1",
+            "media_key": "3_2095422333569867776",
+            "start": 278,
+            "url": "https://t.co/QkoLdu4L05"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2095225244977951198",
+      "text": "The best thing for you is whatever you'll be able to do better and for longer than anyone else",
+      "created_at": "2026-09-02T19:00:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2095225244977951198",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 5,
+        "impression_count": 55,
+        "user_profile_clicks": 2
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2095188185466765325",
+      "text": "Stepers is an alternative to Loops.\n\nStepers and Loops are both email marketing tools for SaaS, built to create sequences, automations, etc.\n\nThis kind of tool is mandatory when you're serious about building a SaaS because email should never be underestimated.\n\nIt can literally help you:\n\nReduce churn\nIncrease conversion\nBuild stronger relationships\nIncrease revenue\n\nBut the most important point is that Stepers is going to be better than Loops in many ways.\n\n-> Stepers lets you control everything directly through an integrated AI Agent\n\n-> Stepers charges based on the number of emails sent, which is much more relevant for SaaS\n\n-> The MCP lets you actually control everything, from creating sequences to editing emails\n\n-> Stepers can be used even if you're not technical\n\n-> Full context: Stepers retrieves all the data for you and helps you optimize your sequences to get the best possible results\n\nStepers mogs Loops",
+      "created_at": "2026-09-02T16:32:44.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2095188185466765325",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 199,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 18,
+        "impression_count": 199,
+        "user_profile_clicks": 2
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/8KDOIj6W35",
+            "end": 302,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2095188185466765325/photo/1",
+            "media_key": "3_2095187331959439371",
+            "start": 279,
+            "url": "https://t.co/8KDOIj6W35"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2095061590550643029",
+      "text": "It's been almost two days now that I've been completely sick. \n\nI must have picked up food poisoning. \n\nNeedless to say it sucks  I can feel that my body is worn out. It's in moments like these that you realize health is just the most important thing. https://t.co/J7P5QaeLlY",
+      "created_at": "2026-09-02T08:09:42.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2095061590550643029",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 286,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 47,
+        "impression_count": 285,
+        "user_profile_clicks": 3
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/J7P5QaeLlY",
+            "end": 275,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2095061590550643029/photo/1",
+            "media_key": "3_2095061581511917574",
+            "start": 252,
+            "url": "https://t.co/J7P5QaeLlY"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2094787368423440710",
+      "text": "Sacrificing in order to move forward in one direction.\nThere's no way around it.\n\nSometimes you tell yourself you can make progress in a dozen different areas at once, hit every goal right away  and the result is you get nowhere at all.\n\nYou have to accept sacrificing things that matter to you, so you can move forward in the direction that matters most today.",
+      "created_at": "2026-09-01T14:00:02.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2094787368423440710",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 71,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 2,
+        "impression_count": 71,
+        "user_profile_clicks": 0
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2094726967333695801",
+      "text": "We're almost at 400 followers, thank you so much for all the support everyone is giving me.\n\nI’m trying to give back as much as possible in return!\n\nWhat’s coming next is going to be crazy!\n\nDon’t hesitate to connect with me! https://t.co/NcYTLFtsd3",
+      "created_at": "2026-09-01T10:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2094726967333695801",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 592,
+        "like_count": 22,
+        "quote_count": 1,
+        "reply_count": 20,
+        "retweet_count": 2
+      },
+      "private_metrics": {
+        "engagements": 113,
+        "impression_count": 594,
+        "user_profile_clicks": 23
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/NcYTLFtsd3",
+            "end": 249,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2094726967333695801/photo/1",
+            "media_key": "3_2094669460393152512",
+            "start": 226,
+            "url": "https://t.co/NcYTLFtsd3"
+          },
+          {
+            "display_url": "pic.x.com/NcYTLFtsd3",
+            "end": 249,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2094726967333695801/photo/1",
+            "media_key": "3_2094670058102386689",
+            "start": 226,
+            "url": "https://t.co/NcYTLFtsd3"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2094669364159025257",
+      "text": "You're looking at your dashboards, you have a thousand pieces of information, but 80% of them are useless\n\nThat's a reality I experienced with my previous SaaS, I wanted to connect as many things as possible to get that feeling of control but in reality\n\nYou control nothing.\n\nConnecting more and more events, API calls, dashboards or trackers will get you nowhere because the problem has never been the information, but the attention\n\nWhat do you want to track? What information do you want to see?\n\nAnd most importantly, what do you do with that information afterwards?\n\nI'm building a tool that helps you optimize this part of your SaaS, it tells you what to set up, what to optimize and why, and then sends the right emails at the right time.\n\nIt's in my bio!",
+      "created_at": "2026-09-01T06:11:08.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2094669364159025257",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 134,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 24,
+        "impression_count": 134,
+        "user_profile_clicks": 0
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/1pOCYYMXqY",
+            "end": 299,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2094669364159025257/photo/1",
+            "media_key": "3_2094669293967253504",
+            "start": 276,
+            "url": "https://t.co/1pOCYYMXqY"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    },
+    {
+      "id": "2094432522855727330",
+      "text": "I've been seriously building businesses for about a year now and here's the reality\n\n-> In 1 year I've generated barely more than 2,000 euros\n\n-> You keep moving forward without really knowing where all of this is going to lead you\n\n-> You're forced to isolate yourself for a while to actually be able to focus\n\n-> Feeling at rock bottom one day and like the king of the world the next\n\nIt's really a lot of highs and lows, it's honestly the hardest thing I've ever done in my life and yet I went to engineering school ahaha, maths compared to this is really easy.\n\nBut it's probably one of the best things as well and for nothing in the world would I do things differently",
+      "created_at": "2026-08-31T14:30:00.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2094432522855727330",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 606,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 52,
+        "impression_count": 606,
+        "user_profile_clicks": 10
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2094364578180419747",
+      "text": "Do less to accomplish more.\n\nAlways keep that in mind. Sometimes I try to overcomplicate things with Stepers  a complicated content strategy, a certain way of talking, etc \nwhen really I just need to simplify.\n\n-> Talk about Stepers and the value behind it\n-> Build the tool\n-> Keep talking about it\n\nKeep things simple and focus on a few things.",
+      "created_at": "2026-08-31T10:00:01.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2094364578180419747",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 147,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 15,
+        "impression_count": 147,
+        "user_profile_clicks": 0
+      },
+      "entities": null,
+      "referenced_tweets": null
+    },
+    {
+      "id": "2094306969939038425",
+      "text": "Most SaaS founders stupidly lose money, and I was the first one to pay the price for it.\n\nThis has nothing to do with distribution, but with the product itself.\n\nIt might sound crazy ahaha considering everyone says distribution is the central point.\n\nThe problem comes from one simple thing:\n\nUsers forget about your SaaS when they close the browser tab.\n\nAnd that’s a problem.\n\nThat’s why email marketing in SaaS is something absolutely essential, even for a V1.\n\nYou have the ability to track all your users’ in-app behaviors and send them the perfect email at the right moment to stay top of mind, but very few people actually do it..\n\nIt’s a mistake I made with my previous SaaS, and it’s clear that I won’t make it again.\n\nRight now, I’m building an email tool for SaaS founders, an alternative to Loops but much more effective and actionable.\n\nThe landing page is in my bio.",
+      "created_at": "2026-08-31T06:11:06.000Z",
+      "url": "https://x.com/Jordi_OSZ/status/2094306969939038425",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 207,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "private_metrics": {
+        "engagements": 42,
+        "impression_count": 207,
+        "user_profile_clicks": 2
+      },
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/9zszFBFUjv",
+            "end": 301,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2094306969939038425/photo/1",
+            "media_key": "3_2094306963509153792",
+            "start": 278,
+            "url": "https://t.co/9zszFBFUjv"
+          },
+          {
+            "display_url": "pic.x.com/9zszFBFUjv",
+            "end": 301,
+            "expanded_url": "https://x.com/Jordi_OSZ/status/2094306969939038425/photo/1",
+            "media_key": "3_2094306963488116736",
+            "start": 278,
+            "url": "https://t.co/9zszFBFUjv"
+          }
+        ]
+      },
+      "referenced_tweets": null
+    }
+  ],
+  "warnings": [
+    "Timeline coverage is limited by X; metrics are cumulative at observed_at, not activity during the requested period.",
+    "Private metrics are only available for recent posts owned by the authenticated user. Missing metrics are null, never zero."
+  ]
+}

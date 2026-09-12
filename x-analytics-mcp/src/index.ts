@@ -4,10 +4,12 @@ import { registerPosts } from './tools/posts.js';
 import { registerAccount } from './tools/account.js';
 import { registerDMs } from './tools/dms.js';
 import { registerUsers } from './tools/users.js';
+import { registerSourcing } from './tools/sourcing.js';
 
 const server = new McpServer({ name: 'x-analytics-mcp', version: '0.1.0' });
 registerPosts(server);
 registerAccount(server);
 registerDMs(server);
 registerUsers(server);
+registerSourcing(server);
 await server.connect(new StdioServerTransport());

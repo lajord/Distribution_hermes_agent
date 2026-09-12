@@ -22,6 +22,11 @@ Le levier d'entrée est le **contenu X** ; le résultat visé est le **trafic LP
    - Défaut : les **7 derniers jours** (fin = aujourd'hui).
    - Si Jordi précise (« sur 3 semaines », « depuis le 1er », « ce mois-ci »), utilise sa période.
    - Prépare aussi la **période précédente équivalente** pour comparer (N vs N-1).
+3. **Lis le rapport de la semaine précédente** s'il existe (dossier `reports/`) :
+   - Récupère sa **stratégie / ses recommandations** pour pouvoir vérifier si elles
+     ont été appliquées cette semaine et avec quel effet.
+   - S'il n'y en a pas (première fois), note-le et saute la partie « suivi des
+     recommandations ».
 
 ## Collecte des données
 
@@ -43,6 +48,7 @@ Le levier d'entrée est le **contenu X** ; le résultat visé est le **trafic LP
 3. **Corréler X → LP → Waitlist** : rapproche les pics de trafic LP et d'inscriptions des posts publiés. 
    - ⚠️ **Corrélation ≠ causalité.** Présente ces liens comme des **hypothèses**, jamais comme des certitudes (règle `directive.md` : distinguer faits et hypothèses).
 4. **Confronter aux hypothèses existantes** (`hypotheses.md`) : est-ce qu'un signal confirme, infirme ou fait évoluer une hypothèse ?
+5. **Suivi du rapport précédent** : compare ce que Jordi a fait cette semaine à la stratégie recommandée la semaine dernière. A-t-il appliqué les recos ? Avec quel effet sur les KPIs ? Dis-le franchement.
 
 ## Le rapport (format imposé : simple et rapide à lire)
 
@@ -58,8 +64,14 @@ en texte (mini-tableau, barres ASCII) plutôt que rien.
 
 Structure exacte, dans cet ordre, court et scannable :
 
-### 1. TL;DR (3-5 lignes)
-Les chiffres clés de la période + **la conclusion principale** + **la recommandation n°1**.
+### 1. Bilan de la semaine (simple)
+Ouverture courte et claire, pour voir d'un coup d'œil la semaine :
+- **TL;DR** (3-5 lignes) : chiffres clés + conclusion principale.
+- **Ce que Jordi a fait cette semaine** : volume de posts, thèmes/formats principaux.
+- **Résultats vs semaine dernière** : les KPIs en bref (↑/↓/=).
+- **Suivi des recommandations précédentes** : est-ce que Jordi a appliqué la
+  stratégie du dernier rapport ? Si oui, quel effet ? Si non, dis-le franchement.
+  (Sauter cette ligne s'il n'y a pas de rapport précédent.)
 
 ### 2. Les KPIs
 Tableau simple, période vs période précédente :
@@ -77,14 +89,21 @@ Indique la tendance (↑/↓/=) et où on en est vs l'objectif **100 inscrits**.
 ### 4. Corrélation avec le funnel
 Ce que le contenu semble avoir produit côté LP et inscriptions — en **hypothèses prudentes**.
 
-### 5. Recommandations pour la semaine prochaine
-Le cœur, au service du prisme **« remplir la waitlist »** :
-- 2 à 4 actions **concrètes** (thèmes / formats / angles à faire ou arrêter).
-- Chaque reco doit être **actionnable** et tenir dans le temps de Jordi (~2h matin + 2h soir).
-- Si pertinent, **1 hypothèse claire à tester** la semaine suivante.
-
-### 6. Ce que je te dis franchement
+### 5. Ce que je te dis franchement
 1 à 3 points directs : ce qui n'est pas clair, ce qui n'avance pas, un angle que Jordi ne voit peut-être pas. Sans complaisance (rôle CMO / associé).
+
+### 6. Stratégie de la semaine (paragraphe simple, SANS graphique)
+La fin du rapport, en **texte clair** — pas de tableau ni de graphique ici, juste
+ton analyse de CMO. Explique la stratégie que tu recommandes, en te basant sur ce
+que le **volume** a révélé :
+- **Ce qui fonctionne → on en fait PLUS** : si un thème/format/angle a marché,
+  dis-le clairement et recommande d'en faire davantage la semaine suivante **pour
+  valider l'hypothèse** (un truc marche → on le confirme la semaine d'après).
+- **Ce qui ne fonctionne pas → on change** : abandonne, ou teste autre chose.
+- **Propose du neuf** : des **idées de posts concrètes**, des angles créatifs, des
+  formats à tester. Ose sortir des sentiers battus.
+- Termine par **la stratégie recommandée pour cette semaine**, en un paragraphe
+  simple, direct et motivant, qui tienne dans le temps de Jordi (~2h matin + 2h soir).
 
 ## Style
 
@@ -95,4 +114,10 @@ Le cœur, au service du prisme **« remplir la waitlist »** :
 
 ## Après le rapport
 
-Propose à Jordi de **consigner les apprentissages** dans `hypotheses.md` via `write_context` (mode append) : nouvelle hypothèse, ou data/preuve rattachée à une hypothèse existante. Ne le fais qu'après son accord, en suivant les règles de `directive.md`.
+1. **Sauvegarde le rapport** dans `reports/AAAA-MM-JJ-weekly-content-review/`
+   (avec les données brutes utilisées). C'est indispensable : la semaine suivante
+   relira ce rapport pour vérifier le **suivi des recommandations**.
+2. Propose à Jordi de **consigner les apprentissages** dans `hypotheses.md` via
+   `write_context` (mode append) : nouvelle hypothèse, ou data/preuve rattachée à
+   une hypothèse existante. Ne le fais qu'après son accord, en suivant les règles
+   de `directive.md`.
